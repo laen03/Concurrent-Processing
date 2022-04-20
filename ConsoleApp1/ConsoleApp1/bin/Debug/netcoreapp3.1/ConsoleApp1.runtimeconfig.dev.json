@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\chech\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\chech\\.nuget\\packages"
+    ]
+  }
+}
